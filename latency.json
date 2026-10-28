@@ -1,0 +1,228 @@
+{
+  "tested_at": "2026-10-28T19:52:33+08:00",
+  "method": "TCP connect",
+  "nodes": [
+    {
+      "name": "🇭🇰 香港_02 | NICHE.COM",
+      "country_region": "香港",
+      "protocol": "vless",
+      "tcp_ms": 34.18
+    },
+    {
+      "name": "🇺🇸 美国_01 | NICHE.COM",
+      "country_region": "美国",
+      "protocol": "vless",
+      "tcp_ms": 170.15
+    },
+    {
+      "name": "🇮🇳 印度_01 | NICHE.COM",
+      "country_region": "印度",
+      "protocol": "vless",
+      "tcp_ms": 170.31
+    },
+    {
+      "name": "🇬🇧 英国_02 | NICHE.COM",
+      "country_region": "英国",
+      "protocol": "vless",
+      "tcp_ms": 186.35
+    },
+    {
+      "name": "🇫🇮 芬兰_01 | NICHE.COM",
+      "country_region": "芬兰",
+      "protocol": "vless",
+      "tcp_ms": 194.83
+    },
+    {
+      "name": "🇩🇪 德国_02 | NICHE.COM",
+      "country_region": "德国",
+      "protocol": "vless",
+      "tcp_ms": 206.76
+    },
+    {
+      "name": "🇨🇿 捷克_01 | NICHE.COM",
+      "country_region": "CZ",
+      "protocol": "vless",
+      "tcp_ms": 210.63
+    },
+    {
+      "name": "🇫🇷 法国_01 | NICHE.COM",
+      "country_region": "法国",
+      "protocol": "vless",
+      "tcp_ms": 219.1
+    },
+    {
+      "name": "🇬🇧 英国_01 | NICHE.COM",
+      "country_region": "英国",
+      "protocol": "vless",
+      "tcp_ms": 219.77
+    },
+    {
+      "name": "🇸🇪 瑞典_01 | NICHE.COM",
+      "country_region": "瑞典",
+      "protocol": "vless",
+      "tcp_ms": 227.49
+    },
+    {
+      "name": "🇩🇪 德国_01 | NICHE.COM",
+      "country_region": "德国",
+      "protocol": "vless",
+      "tcp_ms": 231.39
+    },
+    {
+      "name": "🇷🇺 俄罗斯_01 | NICHE.COM",
+      "country_region": "俄罗斯",
+      "protocol": "vless",
+      "tcp_ms": 232.94
+    },
+    {
+      "name": "🇮🇹 意大利_04 | NICHE.COM",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 255.97
+    },
+    {
+      "name": "🇺🇸 美国_06 | NICHE.COM",
+      "country_region": "美国",
+      "protocol": "vless",
+      "tcp_ms": 262.14
+    },
+    {
+      "name": "🇫🇷 法国_03 | NICHE.COM",
+      "country_region": "法国",
+      "protocol": "vless",
+      "tcp_ms": 262.21
+    },
+    {
+      "name": "🇮🇹 意大利_02 | NICHE.COM",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 265.53
+    },
+    {
+      "name": "🇪🇸 西班牙_02 | NICHE.COM",
+      "country_region": "西班牙",
+      "protocol": "vless",
+      "tcp_ms": 268.61
+    },
+    {
+      "name": "🇹🇷 土耳其_01 | NICHE.COM",
+      "country_region": "土耳其",
+      "protocol": "vless",
+      "tcp_ms": 277.43
+    },
+    {
+      "name": "🇰🇿 哈萨克斯坦_01 | NICHE.COM",
+      "country_region": "KZ",
+      "protocol": "vless",
+      "tcp_ms": 280.48
+    },
+    {
+      "name": "🇳🇱 荷兰_01 | NICHE.COM",
+      "country_region": "荷兰",
+      "protocol": "vless",
+      "tcp_ms": 283.62
+    },
+    {
+      "name": "🇮🇹 意大利_01 | NICHE.COM",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 290.74
+    },
+    {
+      "name": "🇮🇹 意大利_05 | NICHE.COM",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 296.21
+    },
+    {
+      "name": "🇮🇹 意大利_06 | NICHE.COM",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 296.99
+    },
+    {
+      "name": "🇺🇸 美国_03 | NICHE.COM",
+      "country_region": "美国",
+      "protocol": "vless",
+      "tcp_ms": 301.94
+    },
+    {
+      "name": "🇮🇹 意大利_03 | NICHE.COM",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 302.43
+    },
+    {
+      "name": "🇮🇹 意大利_07 | NICHE.COM",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 306.38
+    },
+    {
+      "name": "🇮🇹 意大利_08 | NICHE.COM",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 318.28
+    },
+    {
+      "name": "🇺🇸 美国_04 | NICHE.COM",
+      "country_region": "美国",
+      "protocol": "vless",
+      "tcp_ms": 345.49
+    },
+    {
+      "name": "🇺🇸 美国_07 | NICHE.COM",
+      "country_region": "美国",
+      "protocol": "vless",
+      "tcp_ms": 353.47
+    },
+    {
+      "name": "🇸🇬 新加坡_02 | NICHE.COM",
+      "country_region": "新加坡",
+      "protocol": "vless",
+      "tcp_ms": 362.85
+    },
+    {
+      "name": "🇭🇰 香港_03 | NICHE.COM",
+      "country_region": "香港",
+      "protocol": "vless",
+      "tcp_ms": 385.59
+    },
+    {
+      "name": "🇺🇸 美国_02 | NICHE.COM",
+      "country_region": "美国",
+      "protocol": "vless",
+      "tcp_ms": 1077.5
+    },
+    {
+      "name": "🇵🇱 波兰_01 | NICHE.COM",
+      "country_region": "波兰",
+      "protocol": "vless",
+      "tcp_ms": 1247.16
+    },
+    {
+      "name": "🇪🇸 西班牙_01 | NICHE.COM",
+      "country_region": "西班牙",
+      "protocol": "vless",
+      "tcp_ms": 1247.43
+    },
+    {
+      "name": "🇨🇦 加拿大_01 | NICHE.COM",
+      "country_region": "加拿大",
+      "protocol": "vless",
+      "tcp_ms": 1302.62
+    },
+    {
+      "name": "🇸🇬 新加坡_01 | NICHE.COM",
+      "country_region": "新加坡",
+      "protocol": "vless",
+      "tcp_ms": 1353.97
+    },
+    {
+      "name": "🇯🇵 日本_01 | NICHE.COM",
+      "country_region": "日本",
+      "protocol": "vless",
+      "tcp_ms": 1461.84
+    }
+  ]
+}
