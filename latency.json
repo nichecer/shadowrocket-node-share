@@ -1,144 +1,174 @@
 {
-  "tested_at": "2026-11-07T20:05:12+08:00",
+  "tested_at": "2026-11-08T08:05:10+08:00",
   "method": "TCP connect",
   "nodes": [
     {
       "name": "🇭🇰 香港_01 - nichec.com",
       "country_region": "香港",
       "protocol": "vmess",
-      "tcp_ms": 35.14
+      "tcp_ms": 35.29
     },
     {
       "name": "🇩🇪 德国_03 - nichec.com",
       "country_region": "德国",
       "protocol": "vless",
-      "tcp_ms": 199.91
+      "tcp_ms": 157.99
     },
     {
-      "name": "🇳🇱 荷兰_03 - nichec.com",
-      "country_region": "荷兰",
+      "name": "🇨🇦 加拿大_01 - nichec.com",
+      "country_region": "加拿大",
       "protocol": "vless",
-      "tcp_ms": 222.17
-    },
-    {
-      "name": "🇺🇸 美国_02 - nichec.com",
-      "country_region": "美国",
-      "protocol": "vless",
-      "tcp_ms": 238.11
-    },
-    {
-      "name": "🇬🇧 英国_01 - nichec.com",
-      "country_region": "英国",
-      "protocol": "vless",
-      "tcp_ms": 239.29
-    },
-    {
-      "name": "🇪🇪 爱沙尼亚_01 - nichec.com",
-      "country_region": "EE",
-      "protocol": "vless",
-      "tcp_ms": 240.3
-    },
-    {
-      "name": "🇺🇸 美国_01 - nichec.com",
-      "country_region": "美国",
-      "protocol": "ss",
-      "tcp_ms": 246.07
+      "tcp_ms": 206.52
     },
     {
       "name": "🇨🇭 瑞士_01 - nichec.com",
       "country_region": "瑞士",
       "protocol": "vless",
-      "tcp_ms": 250.03
+      "tcp_ms": 207.56
     },
     {
-      "name": "🇷🇺 俄罗斯_01 - nichec.com",
-      "country_region": "俄罗斯",
-      "protocol": "ss",
-      "tcp_ms": 251.93
+      "name": "🇨🇭 瑞士_02 - nichec.com",
+      "country_region": "瑞士",
+      "protocol": "vless",
+      "tcp_ms": 209.91
     },
     {
-      "name": "🇳🇱 荷兰_01 - nichec.com",
+      "name": "🇳🇱 荷兰_03 - nichec.com",
       "country_region": "荷兰",
       "protocol": "vless",
-      "tcp_ms": 254.0
+      "tcp_ms": 218.29
     },
     {
-      "name": "🇳🇱 荷兰_02 - nichec.com",
-      "country_region": "荷兰",
+      "name": "🇬🇧 英国_02 - nichec.com",
+      "country_region": "英国",
       "protocol": "vless",
-      "tcp_ms": 257.87
+      "tcp_ms": 225.68
     },
     {
-      "name": "🇯🇵 日本_02 - nichec.com",
-      "country_region": "日本",
-      "protocol": "ss",
-      "tcp_ms": 260.45
-    },
-    {
-      "name": "🇩🇪 德国_01 - nichec.com",
-      "country_region": "德国",
+      "name": "🇪🇸 西班牙_01 - nichec.com",
+      "country_region": "西班牙",
       "protocol": "vless",
-      "tcp_ms": 276.58
+      "tcp_ms": 227.19
     },
     {
-      "name": "🇫🇮 芬兰_01 - nichec.com",
-      "country_region": "芬兰",
+      "name": "🇬🇧 英国_01 - nichec.com",
+      "country_region": "英国",
       "protocol": "vless",
-      "tcp_ms": 281.21
+      "tcp_ms": 235.29
     },
     {
-      "name": "🇮🇹 意大利_05 - nichec.com",
-      "country_region": "意大利",
-      "protocol": "ss",
-      "tcp_ms": 335.16
-    },
-    {
-      "name": "🇮🇹 意大利_02 - nichec.com",
-      "country_region": "意大利",
-      "protocol": "ss",
-      "tcp_ms": 335.18
-    },
-    {
-      "name": "🇮🇹 意大利_09 - nichec.com",
-      "country_region": "意大利",
-      "protocol": "ss",
-      "tcp_ms": 338.97
-    },
-    {
-      "name": "🇮🇹 意大利_01 - nichec.com",
-      "country_region": "意大利",
-      "protocol": "ss",
-      "tcp_ms": 339.68
+      "name": "🇪🇪 爱沙尼亚_01 - nichec.com",
+      "country_region": "EE",
+      "protocol": "vless",
+      "tcp_ms": 239.63
     },
     {
       "name": "🇮🇹 意大利_07 - nichec.com",
       "country_region": "意大利",
       "protocol": "ss",
-      "tcp_ms": 344.52
+      "tcp_ms": 246.22
     },
     {
-      "name": "🇮🇹 意大利_03 - nichec.com",
-      "country_region": "意大利",
-      "protocol": "ss",
-      "tcp_ms": 350.03
+      "name": "🇵🇱 波兰_01 - nichec.com",
+      "country_region": "波兰",
+      "protocol": "vless",
+      "tcp_ms": 247.0
     },
     {
-      "name": "🇮🇹 意大利_04 - nichec.com",
+      "name": "🇮🇹 意大利_09 - nichec.com",
       "country_region": "意大利",
       "protocol": "ss",
-      "tcp_ms": 361.07
+      "tcp_ms": 252.1
     },
     {
-      "name": "🇮🇹 意大利_06 - nichec.com",
+      "name": "🇮🇹 意大利_01 - nichec.com",
       "country_region": "意大利",
       "protocol": "ss",
-      "tcp_ms": 364.99
+      "tcp_ms": 253.98
+    },
+    {
+      "name": "🇳🇱 荷兰_01 - nichec.com",
+      "country_region": "荷兰",
+      "protocol": "vless",
+      "tcp_ms": 254.71
+    },
+    {
+      "name": "🇮🇹 意大利_02 - nichec.com",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 259.43
+    },
+    {
+      "name": "🇺🇸 美国_01 - nichec.com",
+      "country_region": "美国",
+      "protocol": "ss",
+      "tcp_ms": 260.68
+    },
+    {
+      "name": "🇮🇹 意大利_05 - nichec.com",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 265.28
     },
     {
       "name": "🇮🇹 意大利_08 - nichec.com",
       "country_region": "意大利",
       "protocol": "ss",
-      "tcp_ms": 372.46
+      "tcp_ms": 266.3
+    },
+    {
+      "name": "🇩🇪 德国_02 - nichec.com",
+      "country_region": "德国",
+      "protocol": "vless",
+      "tcp_ms": 269.74
+    },
+    {
+      "name": "🇮🇷 伊朗_01 - nichec.com",
+      "country_region": "IR",
+      "protocol": "vless",
+      "tcp_ms": 269.99
+    },
+    {
+      "name": "🇮🇹 意大利_04 - nichec.com",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 275.46
+    },
+    {
+      "name": "🇩🇪 德国_01 - nichec.com",
+      "country_region": "德国",
+      "protocol": "vless",
+      "tcp_ms": 277.36
+    },
+    {
+      "name": "🇮🇹 意大利_10 - nichec.com",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 280.4
+    },
+    {
+      "name": "🇷🇺 俄罗斯_01 - nichec.com",
+      "country_region": "俄罗斯",
+      "protocol": "ss",
+      "tcp_ms": 282.22
+    },
+    {
+      "name": "🇮🇹 意大利_06 - nichec.com",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 289.01
+    },
+    {
+      "name": "🇳🇱 荷兰_02 - nichec.com",
+      "country_region": "荷兰",
+      "protocol": "vless",
+      "tcp_ms": 291.99
+    },
+    {
+      "name": "🇮🇹 意大利_03 - nichec.com",
+      "country_region": "意大利",
+      "protocol": "ss",
+      "tcp_ms": 292.21
     }
   ]
 }
